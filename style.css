@@ -1,0 +1,41 @@
+.text{
+    background-color:azure;
+    border-radius: 30px;
+    border: 2px solid red;
+    text-align: center;
+}
+.em{
+    color: red;
+}
+.text2{
+    text-align: center;
+    background-color: yellow
+}
+
+img{
+    width: 45%;
+    height: 400px;
+}
+.qwe{
+    text-align: center;
+    background-color:yellow;
+}
+.text3{
+    text-align: center;
+     background-color: yellow;
+}
+.ert{
+    background-color: rgb(127, 127, 212);
+    color:white;
+    /* padding: 20px ; */
+    border: none;
+    height: 30px;
+    width: 300px;
+}
+.yui{
+    width:99%;
+    border-radius: 10px;
+    border:none;
+    height: 25px;
+    padding:300px;
+}
